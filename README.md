@@ -1,2 +1,16 @@
 # Generate_Yearly_Report_Performer
-Automates yearly performance report generation using UiPath RPA and Orchestrator queues. Collects and processes data from multiple sources, handles transactions via queues, generates reports in Excel/PDF/CSV, and ensures error handling and logging for reliable automation.
+
+
+This repository contains a UiPath Robotic Process Automation (RPA) project designed to automatically generate yearly performance reports. The automation streamlines the process of gathering data, analyzing it, and compiling comprehensive reports, reducing manual effort and ensuring consistency.
+
+Features
+
+Automated Data Collection: Fetches relevant data from multiple sources including Excel, databases, or APIs.
+
+Data Processing & Analysis: Aggregates and transforms raw data into meaningful insights.
+
+Report Generation: Produces yearly performance reports in standardized formats (Excel, PDF, or CSV).
+
+Customizable Workflows: Easily adaptable to different data sources, report formats, and organizational needs.
+
+Error Handling & Logging: Built-in mechanisms for handling exceptions and tracking workflow execution.
